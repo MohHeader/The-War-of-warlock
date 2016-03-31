@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: fire3a 1
+  m_Shader: {fileID: 10720, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords:
+  - _VV_ON
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 86e2c4b1f1c28ee449a09fcbee2f0867, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_9
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Diffuse
+        second:
+          m_Texture: {fileID: 2800000, guid: e7fc1b0be404c6641b1b3207a8dfcb4c, type: 3}
+          m_Scale: {x: .5, y: .5}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: .5
+      data:
+        first:
+          name: _vv
+        second: .5
+      data:
+        first:
+          name: _ttt
+        second: 1
+      data:
+        first:
+          name: _Alpha
+        second: 1
+      data:
+        first:
+          name: _VertexColor
+        second: 0
+      data:
+        first:
+          name: _InnerColorPower
+        second: .5
+      data:
+        first:
+          name: _RimPower
+        second: 2.5
+      data:
+        first:
+          name: _AlphaPower
+        second: 4
+      data:
+        first:
+          name: _AllPower
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _color
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: .5, g: .5, b: .5, a: .5}
+      data:
+        first:
+          name: _InnerColor
+        second: {r: .5, g: .5, b: .5, a: .5}

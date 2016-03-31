@@ -1,0 +1,90 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E13F723E-87D4-B167-C63D-C9CAEC803332}") = "The War of warlock", "Assembly-CSharp-firstpass.csproj", "{FE35625C-9B68-4695-4648-8DBC6E899994}"
+EndProject
+Project("{E13F723E-87D4-B167-C63D-C9CAEC803332}") = "The War of warlock", "Assembly-CSharp.csproj", "{A0F167EF-E4C6-A34F-8560-F8355E1D9862}"
+EndProject
+Project("{E13F723E-87D4-B167-C63D-C9CAEC803332}") = "The War of warlock", "Assembly-CSharp-Editor.csproj", "{E1AAED9D-1EEC-60E0-9F2C-05218FD0E604}"
+EndProject
+Project("{E13F723E-87D4-B167-C63D-C9CAEC803332}") = "The War of warlock", "Assembly-UnityScript-firstpass.unityproj", "{76EC6CE0-32E5-EA8A-7C76-EF8AD169B970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE35625C-9B68-4695-4648-8DBC6E899994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE35625C-9B68-4695-4648-8DBC6E899994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE35625C-9B68-4695-4648-8DBC6E899994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE35625C-9B68-4695-4648-8DBC6E899994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F167EF-E4C6-A34F-8560-F8355E1D9862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F167EF-E4C6-A34F-8560-F8355E1D9862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F167EF-E4C6-A34F-8560-F8355E1D9862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F167EF-E4C6-A34F-8560-F8355E1D9862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AAED9D-1EEC-60E0-9F2C-05218FD0E604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AAED9D-1EEC-60E0-9F2C-05218FD0E604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AAED9D-1EEC-60E0-9F2C-05218FD0E604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AAED9D-1EEC-60E0-9F2C-05218FD0E604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76EC6CE0-32E5-EA8A-7C76-EF8AD169B970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EC6CE0-32E5-EA8A-7C76-EF8AD169B970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EC6CE0-32E5-EA8A-7C76-EF8AD169B970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EC6CE0-32E5-EA8A-7C76-EF8AD169B970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																															GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 120
+		$1.TabsToSpaces = False
+		$1.EolMarker = Unix
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.IndentBlocksInsideExpressions = True
+		$2.NamespaceBraceStyle = NextLineShifted
+		$2.AnonymousMethodBraceStyle = NextLine
+		$2.PropertyBraceStyle = NextLine
+		$2.PropertyGetBraceStyle = NextLine
+		$2.PropertySetBraceStyle = NextLine
+		$2.EventBraceStyle = NextLine
+		$2.EventAddBraceStyle = NextLine
+		$2.EventRemoveBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ElseNewLinePlacement = DoNotCare
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.NewLineBeforeConstructorInitializerColon = NewLine
+		$2.NewLineAfterConstructorInitializerColon = SameLine
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.SwitchParentheses = False
+		$2.SpacesBeforeBrackets = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabsToSpaces = False
+		$3.EolMarker = Unix
+		$3.inheritsSet = VisualStudio
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+		$0.DotNetNamingPolicy = $4
+		$4.DirectoryNamespaceAssociation = None
+		$4.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $5
+		$5.inheritsSet = null
+		$5.scope = text/x-cgsrc
+		$0.TextStylePolicy = $6
+		$6.inheritsSet = null
+		$6.scope = text/x-unitytxt
+	EndGlobalSection
+
+EndGlobal
